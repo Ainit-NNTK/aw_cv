@@ -1,0 +1,2 @@
+export STAGING_DIR=/mnt/sdd1/cv/toolchains/toolchain-sunxi-musl-gcc-830/toolchain
+export TOOLCHAIN_ROOT_PATH=/mnt/sdd1/cv/toolchains/toolchain-sunxi-musl-gcc-830/toolchain
